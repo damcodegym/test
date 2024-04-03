@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+
 public class chuyendoitiente {
     public static void main(String[] args) {
         double vnd = 23000;
